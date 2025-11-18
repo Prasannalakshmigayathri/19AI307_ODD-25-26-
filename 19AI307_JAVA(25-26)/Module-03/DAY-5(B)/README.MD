@@ -12,7 +12,7 @@ To write a Java program that reads a number in string format, converts it into a
 3. Read a string value representing a number.
 4. Convert the string to a `Double` using `Double.parseDouble()`.
 5. Use `Math.sqrt()` to compute the square root of the number.
-6. Display the result in the required format.
+6. Display the result in the required format.   
 7. End the program.
 
 ## PROGRAM:
@@ -45,5 +45,6 @@ public class Main
 
 ## RESULT:
 The program successfully reads a numeric string, converts it to a double value, computes its square root, and displays the result.
+
 
 
