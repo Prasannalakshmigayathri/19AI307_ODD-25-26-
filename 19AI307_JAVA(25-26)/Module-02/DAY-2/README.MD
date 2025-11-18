@@ -18,9 +18,6 @@ To write a Java program that demonstrates calling one method from another method
 7. Stop the program.
 
 
-
-
-
 ## PROGRAM:
  ```
 Program to implement a Methods using Java
@@ -60,6 +57,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program to calculate the cube of a number by calling the square method internally was successfully implemented and executed.
+
 
 
 
