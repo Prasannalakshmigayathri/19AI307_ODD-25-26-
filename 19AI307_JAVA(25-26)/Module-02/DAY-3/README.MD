@@ -16,7 +16,6 @@ To write a Java program that demonstrates the use of access specifiers, specific
 7. Display the values using getter methods.
 8. Stop the program.
 
-
 ## PROGRAM:
  ```
 Program to implement a Access Specifiers using Java
@@ -78,6 +77,7 @@ public class Main
 
 ## RESULT:
 Thus, a Java program to implement Access Specifiers using private variables with public getter and setter methods was executed successfully.
+
 
 
 
