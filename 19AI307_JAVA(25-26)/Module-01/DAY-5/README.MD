@@ -4,7 +4,6 @@
 
 Write a Java program to calculate the power of a given number.
 
-
 ## AIM:
 To write a Java program to compute the power of a number using the Math.pow() function in Java.
 
@@ -54,6 +53,7 @@ public class PowerCalculation {
 
 ## RESULT:
 Thus, the Java program to calculate the power of a given number using Math function was successfully executed.
+
 
 
 
